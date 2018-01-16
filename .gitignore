@@ -1,8 +1,12 @@
 # Project ignores
 # --------------------------------------------------
 
+# Project files
 handout.zip
 project0.pdf
+
+# Derby database for local Spark testing
+metastore_db
 
 
 # Generic Python ignores
