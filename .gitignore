@@ -1,3 +1,13 @@
+# Project ignores
+# --------------------------------------------------
+
+handout.zip
+project0.pdf
+
+
+# Generic Python ignores
+# --------------------------------------------------
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
