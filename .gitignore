@@ -1,12 +1,16 @@
 # Project ignores
 # --------------------------------------------------
 
-# Project files
-handout.zip
-project0.pdf
+# Output files
+sp1.json
+sp2.json
+sp3.json
+sp4.json
+submission.tar
 
 # Derby database for local Spark testing
 metastore_db
+derby.log
 
 
 # Generic Python ignores
